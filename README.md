@@ -1,6 +1,6 @@
 # homebrew-triangle
 
-Homebrew tap formula for triangle
+Homebrew tap formula for <a href="https://github.com/esimov/triangle">triangle</a>.
 
 ## Installation
 
