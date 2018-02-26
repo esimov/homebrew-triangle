@@ -4,7 +4,7 @@ class Triangle < Formula
   desc "Delaunay image triangulator library"
   homepage "https://github.com/esimov/triangle"
   url "#{homepage}/releases/download/v#{TRIANGLE_VERSION}/triangle-#{TRIANGLE_VERSION}-darwin-amd64.zip"
-  sha256 "eed2e428c94cd480e29044e01d25cdcced879347e0f6ad6f41f8dd47bc22aec8"
+  sha256 "e7288434844e863854d139f541be9e933e44d9abd82b63f9e09609aee0f2eb55"
 
   depends_on "go" => :build
 
