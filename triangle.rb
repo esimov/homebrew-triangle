@@ -1,4 +1,4 @@
-TRIANGLE_VERSION = "1.1.1"
+TRIANGLE_VERSION = "1.1.2"
 
 class Triangle < Formula
   desc "Delaunay image triangulator library"
